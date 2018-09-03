@@ -1,0 +1,88 @@
+.con{
+    border-radius: 10px;
+    background-color: #E8F3EC;
+    background-image: url(https://cdn-images-1.medium.com/proxy/1*lQWWgHf-jUvQVEyAKQLIkw@2x.png);
+    background-position: 20px 100%;
+    background-size: auto 290px;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 550px;
+    width: 900px;
+    text-align: center;
+    padding: 50px;
+    margin-top: -50px;
+}
+
+.con2{
+    width: 350px;
+    text-align: center;
+    position: relative;
+    margin: auto;
+}
+
+.con22{
+    margin-top: 20px;
+}
+
+h1{
+    font-family: "Georgia", "Cambria","Times New Roman",Times,serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+
+h3{
+    font-family: "Lucida Sans","Geneva",Arial,sans-serif;
+    letter-spacing: -.02em;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0,0,0,.76);
+    
+}
+
+.btnbox{
+    margin-top: 30px;
+}
+.btnmedium{
+    background: #fff;
+    border: 0px;
+    width: 300px;
+    height: 37px;
+    line-height: 37px;
+    padding: 0 18px;
+    border-radius: 4px;
+    display: inline-block;
+    position: relative;
+    text-align: left;
+    color: rgba(0,0,0,.84);
+    margin-bottom: 15px;
+}
+
+.btntext{
+    color: rgba(0,0,0,.84);
+    fill: rgba(0,0,0,.84);
+    font-family: "Segoe UI";
+    letter-spacing: 0;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 10px;
+}
+
+.createaccount{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    letter-spacing: 0;
+    line-height: 20p;
+    color: rgba(0,0,0,.76);
+    font-family: "Lucida Sans","Geneva",Arial,sans-serif;
+}
+
+.noaccount{
+    margin-bottom: 40px;
+}
